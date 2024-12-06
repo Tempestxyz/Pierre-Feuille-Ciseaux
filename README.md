@@ -31,9 +31,10 @@ Utilisation
 5. Utilisez le bouton "Recommencer" pour réinitialiser le score du joueur et de l'ordinateur.
 
 Contributeurs
-- Nom Prénom 1 - Développeur Frontend
-- Nom Prénom 2 - Designer
-- Nom Prénom 3 - Développeur Backend
+- Oriol Derek Allen - Développeur Frontend
+- Aladin Carlenson Jerry - Designer
+- Emile Yves Junior - Développeur Backend
+- François Rood Marvens - Designer
 
 Licence
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
